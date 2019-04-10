@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* .heading{
+  background-color: darkslategray;
+  color: white;
+  position: fixed;
+  top:0;
+    position:fixed;
+    width:100%;
+} */
+
+.input {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.MuiButtonBase-root-81.MuiButton-root-55.MuiButton-contained-66.MuiButton-containedPrimary-67.MuiButton-raised-69.MuiButton-raisedPrimary-70{
+  height: 40px;
+  margin: 5px;
+  /* margin-top: 12px; */
+}
+
+
+.MuiFormControl-root-1.MuiFormControl-marginNormal-2.MuiFormControl-fullWidth-4{
+  align-self: center;
+  width:75%;
+  margin: 5px;
+}
+
+.MuiInputBase-root-36.MuiOutlinedInput-root-23.MuiInputBase-formControl-37{
+height: 40px;
+margin: 5px;
+
+}
